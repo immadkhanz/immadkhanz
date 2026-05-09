@@ -73,23 +73,6 @@ I am a dedicated **Software Engineer & Full-Stack Web Developer** specializing i
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immadkhanz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immadkhanz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immadkhanz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immadkhanz&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=ffffff&area_color=3b82f6&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=immadkhanz&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views"/>
 </p>
