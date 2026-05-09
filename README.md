@@ -1,20 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Immad;Full-Stack+Developer;UI%2FUX+Engineer;Software+Engineer" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Muhammad%20Immad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Engineer%20%7C%20Software%20Engineer&descSize=16&descAlignY=55&descColor=93C5FD" width="100%"/>
 
 <p align="center">
-  <em>Crafting bold, digital experiences where aesthetic brilliance meets uncompromising performance.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&random=false&width=600&height=60&lines=Crafting+bold+digital+experiences+%F0%9F%9A%80;Where+aesthetic+brilliance+meets+performance+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/immadkhanz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-immad-1590193b6"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&to=ceoimmad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/immadkhanz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-immad-1590193b6"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=ceoimmad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💫 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 I am a dedicated **Software Engineer & Full-Stack Web Developer** specializing in building highly scalable, interactive, and aesthetically premium web applications. With a strong foundation in both frontend architecture and backend integration, I bridge the gap between elegant UI/UX design and robust technical implementation.
 
@@ -25,9 +23,9 @@ I am a dedicated **Software Engineer & Full-Stack Web Developer** specializing i
 - 🐳 Containerizing & deploying with **Docker**, **Vercel** & **Google Cloud**
 - 🌍 **Available for Hire** — Open to remote opportunities worldwide
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Tech Stack & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
 
 ### 🎨 Frontend & UI
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -71,12 +69,10 @@ I am a dedicated **Software Engineer & Full-Stack Web Developer** specializing i
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=immadkhanz&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=4000&pause=1500&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Let's+build+the+future+together.+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities+%F0%9F%A4%9D" alt="Footer Typing SVG" />
 </p>
 
-<p align="center">
-  <em>Let's build the future together. 🚀</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%"/>
