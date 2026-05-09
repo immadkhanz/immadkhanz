@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Immad;Full-Stack+Developer;UI%2FUX+Engineer;Future+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Muhammad+Immad;Full-Stack+Developer;UI%2FUX+Engineer;Software+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,7 +24,6 @@ I am a dedicated **Software Engineer & Full-Stack Web Developer** specializing i
 - 🎨 Obsessed with premium UI — smooth animations with **Framer Motion** & immersive 3D with **Three.js**
 - ⚡ Shipping production-ready backends using **Node.js**, **Supabase**, **PostgreSQL** & **Prisma**
 - 💳 Integrating real-world payment flows with **Stripe** & state management with **Zustand**
-- 🤖 Exploring AI integration with **OpenAI** and the **Vercel AI SDK**
 - 🐳 Containerizing & deploying with **Docker**, **Vercel** & **Google Cloud**
 - 🌍 **Available for Hire** — Open to remote opportunities worldwide
 
@@ -61,7 +60,7 @@ I am a dedicated **Software Engineer & Full-Stack Web Developer** specializing i
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
-### ☁️ Cloud, DevOps & AI
+### ☁️ Cloud, DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
