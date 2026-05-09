@@ -1,13 +1,13 @@
 # 💫 About Me:
-I am a passionate and versatile Full-Stack Developer & UI/UX Designer dedicated to building high-performance, aesthetically premium web applications. I specialize in bridging the gap between elegant design and robust functionality, delivering seamless digital experiences.
+I am a dedicated **Software Engineer & Web Developer** specializing in building highly scalable, interactive, and aesthetically premium web applications. With a strong foundation in both frontend architecture and backend integration, I bridge the gap between elegant UI/UX design and robust technical implementation.
 
-🚀 **What I do:**
-* **Premium Web Experiences:** Architecting and developing visually stunning platforms like *Salah Media House*—a cinematic photography portal with a Noir Luxe aesthetic.
-* **Interactive Applications:** Building dynamic, interactive systems such as *EventBook* and e-commerce solutions like *Bahr Al Farah*.
-* **Modern Tech Stack:** Leveraging TypeScript, JavaScript, HTML5/CSS3, alongside cloud tools like Firebase and Google Cloud, to build scalable applications.
-* **Design & UI/UX:** Combining technical expertise with a strong eye for design using Figma and Canva, ensuring every project is highly polished and user-friendly.
+🚀 **Core Competencies:**
+* **Full-Stack Development:** Architecting end-to-end solutions using **JavaScript** and **TypeScript**, delivering seamless, high-performance user experiences.
+* **Premium UI/UX Engineering:** Designing and implementing complex, modern interfaces (from cinematic visual experiences to data-rich dashboards) utilizing advanced **CSS3**, **HTML5**, and design tools like **Figma** and **Canva**.
+* **Cloud & Backend Architecture:** Deploying and managing scalable, secure infrastructures leveraging **Firebase**, **Google Cloud**, **Vercel**, and **Cloudflare**.
+* **Data Science & AI Integration:** Incorporating intelligent features and data processing pipelines using **Python**, **Pandas**, **NumPy**, and **Scikit-learn** to build future-ready applications.
 
-I enjoy continuously learning new technologies, pushing the boundaries of modern web development, and exploring AI integration to bring more intelligence into the products I build.
+I am passionate about writing clean, maintainable code, adopting modern web development practices, and continuously exploring new libraries and frameworks to build powerful digital products.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/immadkhanz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immadkhanz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immadkhanz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@immadkhanz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ceoimmad@gmail.com) 
