@@ -1,6 +1,13 @@
 # 💫 About Me:
-Frontend Web Development projects and improving my skills in HTML, CSS, and JavaScript.<br><br>Web development projects, website UI design, and beginner-friendly open-source projects.<br><br>Advanced JavaScript concepts, backend development, and improving full-stack skills.<br><br>Advanced JavaScript, modern web development practices, and exploring AI integration in websites.<br><br>HTML, CSS, JavaScript, Figma, UI design, and logo design.<br><br>I enjoy designing logos and building clean, modern websites while continuously learning new technologies.
+I am a passionate and versatile Full-Stack Developer & UI/UX Designer dedicated to building high-performance, aesthetically premium web applications. I specialize in bridging the gap between elegant design and robust functionality, delivering seamless digital experiences.
 
+🚀 **What I do:**
+* **Premium Web Experiences:** Architecting and developing visually stunning platforms like *Salah Media House*—a cinematic photography portal with a Noir Luxe aesthetic.
+* **Interactive Applications:** Building dynamic, interactive systems such as *EventBook* and e-commerce solutions like *Bahr Al Farah*.
+* **Modern Tech Stack:** Leveraging TypeScript, JavaScript, HTML5/CSS3, alongside cloud tools like Firebase and Google Cloud, to build scalable applications.
+* **Design & UI/UX:** Combining technical expertise with a strong eye for design using Figma and Canva, ensuring every project is highly polished and user-friendly.
+
+I enjoy continuously learning new technologies, pushing the boundaries of modern web development, and exploring AI integration to bring more intelligence into the products I build.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/immadkhanz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immadkhanz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immadkhanz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@immadkhanz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ceoimmad@gmail.com) 
